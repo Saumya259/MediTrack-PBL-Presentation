@@ -1,0 +1,10 @@
+## ML Prototype (PBL-2)
+
+This repository contains a baseline Machine Learning prototype
+to demonstrate symptom severity classification.
+
+- Language: Python
+- Library: scikit-learn
+- Output: Accuracy score and confusion matrix
+
+This is a feasibility-level implementation for PBL-2.
